@@ -1,0 +1,9 @@
+{
+  "name": "CustomHotbarColors",
+  "description": "Recolors the hotbar: cell backgrounds, slot numbers, and a border on the equipped item.",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/orax-Valheim-mods",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
